@@ -49,12 +49,11 @@ linked-list/
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/linked-list.git
    cd linked-list
    ```
-
-````
 
 2. **Ensure Node.js (v16 or later) is installed**
 
@@ -62,7 +61,7 @@ linked-list/
 
    ```bash
    node main.js
-````
+   ```
 
 ---
 
@@ -183,3 +182,4 @@ You’re free to use, modify, and distribute this code with attribution.
 **Kazi Arman**
 📧 [kaziarman@proton.me](mailto:kaziarman@proton.me)
 🌐 [https://github.com/kaziarman23](https://github.com/kaziarman23)
+````

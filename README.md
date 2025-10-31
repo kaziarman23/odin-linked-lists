@@ -1,4 +1,3 @@
-
 # 🧩 Linked List Implementation (JavaScript)
 
 A simple **Linked List** data structure implemented in **JavaScript (ES6)**.  
@@ -40,13 +39,10 @@ This project demonstrates how to create, traverse, and manipulate linked lists u
 
 ## 🗂 Project Structure
 
-
 linked-list/
 ├── LinkedList.js # Contains Node and LinkedList classes
 ├── main.js # Script to test and demonstrate LinkedList functionality
 └── README.md # Documentation file
-
-
 
 ---
 
@@ -56,6 +52,8 @@ linked-list/
    ```bash
    git clone https://github.com/yourusername/linked-list.git
    cd linked-list
+   ```
+
 ````
 
 2. **Ensure Node.js (v16 or later) is installed**
@@ -64,7 +62,7 @@ linked-list/
 
    ```bash
    node main.js
-   ```
+````
 
 ---
 

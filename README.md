@@ -1,4 +1,4 @@
-```markdown
+
 # 🧩 Linked List Implementation (JavaScript)
 
 A simple **Linked List** data structure implemented in **JavaScript (ES6)**.  
